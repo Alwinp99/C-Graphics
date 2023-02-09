@@ -1,0 +1,32 @@
+﻿  glad.c
+  Camera.cpp
+  ComputeShader.cpp
+  CubeRobot.cpp
+  FantasyScene.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\nclgl\HeightMap.cpp(22,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\nclgl\HeightMap.cpp(22,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\nclgl\HeightMap.cpp(23,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\nclgl\HeightMap.cpp(23,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+  Light.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Generating Code...
+  Compiling...
+  Shader.cpp
+  Water.cpp
+  Window.cpp
+  Generating Code...
+  nclgl.vcxproj -> C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\x64\Debug\nclgl.lib
