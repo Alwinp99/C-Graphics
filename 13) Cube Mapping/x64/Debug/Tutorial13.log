@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 13 - Cube Mapping.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Renderer.cpp
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\13) Cube Mapping\Renderer.cpp(26,71): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\13) Cube Mapping\Renderer.cpp(26,32): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\13) Cube Mapping\Renderer.cpp(309,84): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\13) Cube Mapping\Renderer.cpp(309,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\13) Cube Mapping\Renderer.cpp(708,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Tutorial13.vcxproj -> C:\Users\alwin\Downloads\CSC8502 2022 Asssignment\x64\Debug\Tutorial 13 - Cube Mapping - Assignment.exe
